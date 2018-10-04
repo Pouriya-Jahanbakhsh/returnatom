@@ -24,4 +24,8 @@ qux
 ok
 (returnatom@localhost)8> returnatom:modules().       
 [foo]
+(returnatom@localhost)9> returnatom:stop(foo).
+ok
+(returnatom@localhost)10> returnatom:modules().
+[]
 ```
