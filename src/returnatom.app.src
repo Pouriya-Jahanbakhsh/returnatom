@@ -1,7 +1,7 @@
 {application
 ,returnatom
 ,[{description, "An OTP application"}
- ,{vsn, "0.0.0"}
+ ,{vsn, "18.10.3"}
  ,{applications, [kernel, stdlib]}
  ,{mod, {returnatom_app, undefined}}
  ,{maintainers, ["pouriya.jahanbakhsh@gmail.com"]}
